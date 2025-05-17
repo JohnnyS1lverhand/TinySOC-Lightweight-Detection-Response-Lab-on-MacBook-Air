@@ -1,0 +1,28 @@
+# Logs and temp files
+*.log
+logs/
+tmp/
+*.tmp
+
+# System files
+.DS_Store
+*.swp
+*.swo
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE configs
+.vscode/
+.idea/
+
+# Build artifacts
+build/
+dist/
+
+# Environment and secrets
+.env
+.env.*
+secrets/
+
